@@ -83,7 +83,7 @@
   <project path="system/libhidl" name="xd_system_libhidl" remote="xd" />
   
   <!-- Vendor -->
-  <project path="vendor/xdroid" name="xdroid-9810-thirteen/xd_vendor_xdroid" revision="thirteen" remote="github" />
+  <project path="vendor/xdroid" name="xd_vendor_xdroid" remote="xd" />
   <project path="vendor/xdroidui" name="xd_vendor_xdroidui" remote="xd" />
   <project path="vendor/xdroidui-pref" name="xd_vendor_xdroidui-pref" remote="xd" />
   <project path="vendor/gms" name="xd_vendor_gms" remote="xd-gitlab" clone-depth="1" />
