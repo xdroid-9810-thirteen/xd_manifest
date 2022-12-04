@@ -31,7 +31,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="xd_frameworks_av" remote="xd" />
-  <project path="frameworks/base" name="xd_frameworks_base" remote="xd" />
+  <project path="frameworks/base" name="xdroid-9810-thirteen/xd_frameworks_base" revision="thirteen" remote="github" />
   <project path="frameworks/native" name="xd_frameworks_native" remote="xd" />
   <project path="frameworks/opt/telephony" name="xd_frameworks_opt_telephony" remote="xd" />
 
